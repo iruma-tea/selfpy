@@ -11,7 +11,8 @@
 				"!Module"
 			],
 			"editor.formatOnType": true,
-			"editor.wordBasedSuggestions": false
+			"editor.wordBasedSuggestions": false,
+			"editor.formatOnSave": true,
 		}
 	}
 }
