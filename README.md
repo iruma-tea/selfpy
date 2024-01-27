@@ -6,6 +6,10 @@
 ## requestsのインストール
    ・ pip install requests
 
+## sphinxのインストール
+   ・ pip install -U sphinx
+   ・ https://www.sphinx-doc.org/ja/master/
+
 ## インストールしたライブラリ「requirements.txt」の作成
    ・ pip freeze > requirements.txt
 
