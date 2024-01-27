@@ -1,4 +1,4 @@
-# from mypack import app
+from mypack import app
 
 # def hoge():
 #   return 'hoge'
