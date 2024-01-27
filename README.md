@@ -12,5 +12,8 @@
 ## インストールしたライブラリのインストール
    ・ pip install -r requirements.txt
 
+## モジュールの実行
+   ・ python -m figure
+
 ## 参考サイト
    ・ https://camp.trainocate.co.jp/magazine/venv-python/
