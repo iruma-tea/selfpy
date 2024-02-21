@@ -12,8 +12,11 @@
 			],
 			"editor.formatOnType": true,
 			"editor.wordBasedSuggestions": "off",
-			"editor.defaultFormatter": "ms-python.autopep8",
+			"editor.defaultFormatter": "ms-python.flake8",
 			"editor.formatOnSave": true,
-		}
+		},
+		"flake8.args": [
+			"--ignore=E501"
+		]
 	}
 }
