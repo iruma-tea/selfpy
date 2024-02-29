@@ -1,4 +1,6 @@
 # selfpy
+独習Pythonの学習用リポジトリ  
+![画像](https://www.seshop.com/static/images/product/23724/L.png "独習Python")
 
 ## 仮想環境の作成
    ・ python -m venv env または python3 -m venv env
